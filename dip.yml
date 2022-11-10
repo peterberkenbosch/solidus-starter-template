@@ -6,7 +6,7 @@ environment:
 compose:
   files:
     - .dockerdev/compose.yml
-  project_name: rails-starter
+  project_name: solidus-starter
 
 interaction:
   sh:
