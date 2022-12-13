@@ -3,7 +3,7 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/43570089ffd1811c190f/maintainability)](https://codeclimate.com/github/peterberkenbosch/solidus-starter-template/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/43570089ffd1811c190f/test_coverage)](https://codeclimate.com/github/peterberkenbosch/solidus-starter-template/test_coverage)
 
-Opiniated Solidus setup with the latest Rails, using PostgreSQL, TailwindCSS, Stimulus, Hotwire and RSpec.
+Opinionated Solidus setup with the latest Rails, using PostgreSQL, TailwindCSS, Stimulus, Hotwire and RSpec.
 
 Using jsbundling-rails for Javascript, and TailwindCSS through PostCSS with cssbundling-rails. For easy loading of all Stimulus controllers
 we use esbuild-rails.
