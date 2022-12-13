@@ -107,7 +107,7 @@ GEM
       activerecord (>= 4.0.0, < 7.1)
     bcrypt (3.1.18)
     bindex (0.8.1)
-    brakeman (5.3.1)
+    brakeman (5.4.0)
     builder (3.2.4)
     cancancan (3.4.0)
     carmen (1.1.3)
